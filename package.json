@@ -1,0 +1,29 @@
+{
+  "name": "castle-courtyard-tactical-combat",
+  "version": "1.0.0",
+  "description": "Turn-based tactical combat game with AI opponent",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server -p 8000",
+    "dev": "npx live-server --port=8000"
+  },
+  "keywords": [
+    "game",
+    "tactical",
+    "combat",
+    "turn-based",
+    "canvas",
+    "javascript",
+    "ai",
+    "pathfinding"
+  ],
+  "author": "Claude AI",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/castle-courtyard.git"
+  }
+}
